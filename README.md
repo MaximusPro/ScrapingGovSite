@@ -60,7 +60,7 @@ What is currently being parsed
 (please specify more precisely if you know)
 
 Most likely: list of literature, register of licenses, list of accredited organizations, unified register of inspections, register of individual entrepreneurs / legal entities, etc.
-Source: _______________________ (add the target website link here)
+Source: https://www.ic.gc.ca/app/scr/tds/web/list-liste?lang=eng
 
 ## Important notes
 ⚠️ Comply with the law
