@@ -1,10 +1,10 @@
 # ScrapingGovSite
 
-Government websites data scraper (parser of registries and official lists)
+Government of Canada website data scraper (parser of registries and official lists)
 
 ## About the project
 
-This project is designed for automatic collection and structuring of data from various government registries and official sources (primarily of the Russian Federation, but can be adapted for other countries).
+This project is designed for automatic collection and structuring of data from various government registries and official sources.
 
 Currently, the project parses one or several sources and saves the result into a convenient CSV file.
 
@@ -19,8 +19,8 @@ The main functionality is contained in a single file — `main.py`.
 ## Technologies
 
 - **Python** 3.8+
-- **requests** / **httpx** (for HTTP requests)
-- **BeautifulSoup4** / **lxml** / **playwright** / **selenium** (depending on implementation)
+- **requests** (for HTTP requests)
+- **BeautifulSoup4** / **selenium** (depending on implementation)
 - **pandas** (optional — for convenient table handling)
 
 (exact stack can be seen in `main.py` or by looking at the imports)
