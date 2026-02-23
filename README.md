@@ -47,9 +47,9 @@ venv\Scripts\activate        # Windows
 # Install dependencies
 (if a requirements.txt file appears later — use it; for now you can install the most common packages manually):
 
-Bashpip install requests beautifulsoup4 pandas tqdm
-# or if playwright is used:
-# playwright install
+```bash
+pip install requests beautifulsoup4 pandas tqdm
+```
 
 # Run the parser
 ```bash
